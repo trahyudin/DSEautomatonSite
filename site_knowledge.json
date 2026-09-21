@@ -1,0 +1,1982 @@
+{
+    "medium.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": "To create a post, click the **\"Write\"** (pencil ic"
+            }
+        ]
+    },
+    "http://imgbox.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "http://postimages.org": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "http://prnt.sc": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "http://BLOGGER.COM": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "http://freeimage.host": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "imgbb.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://imageshack.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "mediafire.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "tumblr.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": "To create a post, click the **blue pencil icon** i"
+            }
+        ]
+    },
+    "http://flipboard.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "http://500px.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "dropmark.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "behance.net": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "4shared.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "fliphtml5.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "imagebam.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "http://shutterfly.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "http://tinypic.host": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://my.pcloud.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "http://instagram.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "http://livejournal.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "http://gifyu.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "imgur.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://photos.google.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "facebook.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "http://minds.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "locanto.co.id": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "http://twitter.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.wattpad.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://id.wix.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://penzu.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.weebly.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://ghost.org/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.klook.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://glints.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.tripadvisor.co.id/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.squarespace.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://pixabay.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://unsplash.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.pexels.com/id-id/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.reshot.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.shopify.com/stock-photos": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://pikwizard.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://gratisography.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.stockvault.net/#": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "imgpile.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "deviantart.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "pixiv.net": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "artstation.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "carbonmade.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "imgsrc.ru": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "imageup.ru": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "gofile.io": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "pixeldrain.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "uguu.se": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "magnific.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "stocksnap.io": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "pxhere.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "infogram.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "mega.nz": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://youpic.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.imghippo.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "photobucket.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "yogile.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "archive.org": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "screencast.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "justpaste.it": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "picallow.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "threads.net": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "nippy.host": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "turbobit.net": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "carrd.co": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "hostupa.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "quaddro.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "write.as": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "plurk.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "webflow.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://send.now/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "tiktok.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://bsky.app/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.reddit.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "flickr.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "snipboard.io": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "chevereto.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "hubpages.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "pastebin.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "dropbox.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "cloudup.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "imagevenue.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "jumpshare.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "koofr.eu": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "lensdump.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://telegra.ph/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "Naomi.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "Pasteboard.co": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://pixelfed.social/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "MyAlbum.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "Dribbble.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.notion.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "pixhost.to": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "designspiration.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "kaskus.co.id": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://substack.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.diigo.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "writeupcafe.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://sirv.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.filestack.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.bytescale.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://transloadit.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://uploadthing.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://pinata.cloud/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://storacha.network/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://filebase.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.backblaze.com/cloud-storage": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.storj.io/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://wasabi.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://bunny.net/storage/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://supabase.com/storage": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://firebase.google.com/products/storage": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.cloudflare.com/developer-platform/products/r2/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://aws.amazon.com/s3": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://drive.google.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://onedrive.live.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.box.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://proton.me/drive": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://internxt.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://filen.io/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.sync.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.idrive.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.terabox.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": "To upload and share files on TeraBox:\n\n* **Upload "
+            }
+        ]
+    },
+    "https://degoo.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://disk.yandex.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.jottacloud.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://cozy.io/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://mobidrive.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://digiboxx.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.icloud.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://wordpress.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://sites.google.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.site123.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.jimdo.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.webnode.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.ucraft.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://dorik.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://typedream.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.framer.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://about.me/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://bio.site/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://linktr.ee/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://beacons.ai/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://solo.to/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://mssg.me/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.hubspot.com/products/cms": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://squareup.com/online-store": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.mozello.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.yola.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.webador.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.simdif.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.imcreator.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://pixieset.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.shootproof.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://zenfolio.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.format.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.photoshelter.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://crevado.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.portfoliobox.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.journoportfolio.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.pixpa.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.coroflot.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.photo.net/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.viewbug.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://gurushots.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.photocrowd.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.fotocommunity.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.ipernity.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.slickpic.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://exposure.co/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.vsco.co/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://glass.photo/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.pic-time.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.lightfolio.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.photo-deck.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.canva.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://padlet.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://miro.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.mural.co/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://genially.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.visme.co/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.emaze.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://issuu.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.calameo.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://anyflip.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.yumpu.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://publuu.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://heyzine.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.flipsnack.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "photos.app.goo.gl": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "u.pcloud.link": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "flipboard.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "pinterest.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://catbox.moe/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "pearltrees.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "picdrop.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "imgit.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "smugmug.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "TurboImageHost.com": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "slideshare.net": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://appwrite.io/products/storage": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://icedrive.net/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.blomp.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.opendrive.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://nordlocker.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.strikingly.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://tilda.cc/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://taplink.at/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://picflow.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://www.adobe.com/express/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "https://prezi.com/": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    },
+    "postimage.me": {
+        "editor_type": "standard_form",
+        "steps": [
+            {
+                "action": "click",
+                "hint": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "imgbox.com": {
+        "editor_type": "dom_mapped",
+        "steps": [
+            {
+                "found": true,
+                "action_type": "click_button",
+                "target_identifier": "38",
+                "confidence": 0.95
+            }
+        ]
+    },
+    "http://imgbox.com": {
+        "editor_type": "dom_mapped",
+        "steps": [
+            {
+                "found": true,
+                "action_type": "click_button",
+                "target_identifier": "8",
+                "confidence": 0.95
+            }
+        ]
+    },
+    "http://postimages.org": {
+        "editor_type": "dom_mapped",
+        "steps": [
+            {
+                "found": true,
+                "action_type": "click_button",
+                "target_identifier": "9",
+                "confidence": 0.95
+            }
+        ]
+    },
+    "http://prnt.sc": {
+        "editor_type": "dom_mapped",
+        "steps": [
+            {
+                "found": true,
+                "action_type": "click_button",
+                "target_identifier": "31",
+                "confidence": 0.95
+            }
+        ]
+    },
+    "http://BLOGGER.COM": {
+        "editor_type": "dom_mapped",
+        "steps": [
+            {
+                "found": true,
+                "action_type": "click_button",
+                "target_identifier": "4",
+                "confidence": 0.9
+            }
+        ]
+    },
+    "https://imageshack.com": {
+        "editor_type": "dom_mapped",
+        "steps": [
+            {
+                "found": true,
+                "action_type": "click_button",
+                "target_identifier": "12",
+                "confidence": 0.95
+            }
+        ]
+    },
+    "mediafire.com": {
+        "editor_type": "dom_mapped",
+        "steps": [
+            {
+                "found": true,
+                "action_type": "click_button",
+                "target_identifier": "21",
+                "confidence": 0.9
+            }
+        ]
+    },
+    "dropmark.com": {
+        "editor_type": "dom_mapped",
+        "steps": [
+            {
+                "found": true,
+                "action_type": "click_button",
+                "target_identifier": "9",
+                "confidence": 0.6
+            }
+        ]
+    },
+    "4shared.com": {
+        "editor_type": "dom_mapped",
+        "steps": [
+            {
+                "found": true,
+                "action_type": "click_button",
+                "target_identifier": 38,
+                "confidence": 0.95
+            }
+        ]
+    },
+    "fliphtml5.com": {
+        "editor_type": "dom_mapped",
+        "steps": [
+            {
+                "found": true,
+                "action_type": "click_button",
+                "target_identifier": "3",
+                "confidence": 0.6
+            }
+        ]
+    },
+    "imagebam.com": {
+        "editor_type": "dom_mapped",
+        "steps": [
+            {
+                "found": true,
+                "action_type": "click_button",
+                "target_identifier": "12",
+                "confidence": 0.95
+            }
+        ]
+    },
+    "http://shutterfly.com": {
+        "editor_type": "dom_mapped",
+        "steps": [
+            {
+                "found": true,
+                "action_type": "click_button",
+                "target_identifier": "30",
+                "confidence": 0.6
+            }
+        ]
+    },
+    "pinterest.com": {
+        "editor_type": "dom_mapped",
+        "steps": [
+            {
+                "found": true,
+                "action_type": "click_button",
+                "target_identifier": "6",
+                "confidence": 0.9
+            }
+        ]
+    },
+    "turbobit.net": {
+        "editor_type": "dom_mapped",
+        "steps": [
+            {
+                "found": true,
+                "action_type": "click_button",
+                "target_identifier": "7",
+                "confidence": 0.95
+            }
+        ]
+    }
+}

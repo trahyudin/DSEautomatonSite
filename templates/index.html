@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AutoPost Matrix - Automated Content & Backlink Automation Hub</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom Stylesheet -->
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="brand">
+                <div class="logo-icon"><i class="fa-solid fa-bolt"></i></div>
+                <div class="brand-text">
+                    <h2>AutoPost<span>Matrix</span></h2>
+                    <p>SEO & Backlink Automation</p>
+                </div>
+            </div>
+
+            <nav class="nav-menu">
+                <button class="nav-item active" data-tab="tab-dashboard">
+                    <i class="fa-solid fa-chart-pie"></i> <span>Dashboard</span>
+                </button>
+                <button class="nav-item" data-tab="tab-inspector">
+                    <i class="fa-solid fa-microscope"></i> <span>Site Inspector</span>
+                </button>
+                <button class="nav-item" data-tab="tab-wizard">
+                    <i class="fa-solid fa-paper-plane"></i> <span>Bulk Upload Wizard</span>
+                </button>
+                <button class="nav-item" data-tab="tab-tracker">
+                    <i class="fa-solid fa-table-cells"></i> <span>Excel Tracker</span>
+                </button>
+                <button class="nav-item" data-tab="tab-verifier">
+                    <i class="fa-solid fa-square-check"></i> <span>Link Health Audit</span>
+                </button>
+                <button class="nav-item" data-tab="tab-audit">
+                    <i class="fa-solid fa-list-check"></i> <span>Audit Info</span>
+                </button>
+                <button class="nav-item" data-tab="tab-settings">
+                    <i class="fa-solid fa-sliders"></i> <span>Settings</span>
+                </button>
+            </nav>
+
+            <div class="sidebar-footer">
+                <div class="excel-status-card">
+                    <i class="fa-solid fa-file-excel"></i>
+                    <div class="status-info">
+                        <span class="label">Connected File</span>
+                        <span class="val">tracker-posting.xlsx</span>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <!-- Top Navbar -->
+            <header class="top-header">
+                <div class="page-title">
+                    <h1 id="current-tab-title">Dashboard Overview</h1>
+                    <p id="current-tab-desc">Monitor platform distribution, campaign progress, and automated system health.</p>
+                </div>
+                <div class="header-actions">
+                    <button class="btn btn-secondary" id="btn-reload-excel">
+                        <i class="fa-solid fa-rotate"></i> Sync Excel Data
+                    </button>
+                    <button class="btn btn-primary" id="btn-quick-upload">
+                        <i class="fa-solid fa-plus"></i> New Upload Task
+                    </button>
+                </div>
+            </header>
+
+            <div class="tab-content-container">
+                <!-- TAB 1: DASHBOARD OVERVIEW -->
+                <section id="tab-dashboard" class="tab-pane active">
+                    <div class="stats-grid">
+                        <div class="stat-card">
+                            <div class="stat-icon cyan"><i class="fa-solid fa-globe"></i></div>
+                            <div class="stat-details">
+                                <span class="stat-label">Total Target Platforms</span>
+                                <h2 class="stat-value" id="stat-total-sites">227</h2>
+                                <span class="stat-sub text-cyan">Ready for auto posting</span>
+                            </div>
+                        </div>
+
+                        <div class="stat-card">
+                            <div class="stat-icon violet"><i class="fa-solid fa-layer-group"></i></div>
+                            <div class="stat-details">
+                                <span class="stat-label">Total Campaigns</span>
+                                <h2 class="stat-value" id="stat-total-campaigns">--</h2>
+                                <span class="stat-sub text-violet">Tracked in Excel</span>
+                            </div>
+                        </div>
+
+                        <div class="stat-card">
+                            <div class="stat-icon green"><i class="fa-solid fa-link"></i></div>
+                            <div class="stat-details">
+                                <span class="stat-label">Total Backlinks</span>
+                                <h2 class="stat-value" id="stat-total-posts">0</h2>
+                                <span class="stat-sub text-green">Across all campaigns</span>
+                            </div>
+                        </div>
+
+                        <div class="stat-card">
+                            <div class="stat-icon green"><i class="fa-solid fa-circle-check"></i></div>
+                            <div class="stat-details">
+                                <span class="stat-label">🟢 Mudah (Direct API)</span>
+                                <h2 class="stat-value text-green" id="stat-tier-easy">--</h2>
+                                <span class="stat-sub text-green">Fast direct upload</span>
+                            </div>
+                        </div>
+
+                        <div class="stat-card">
+                            <div class="stat-icon orange"><i class="fa-solid fa-robot"></i></div>
+                            <div class="stat-details">
+                                <span class="stat-label">🟡 Sedang (Web Form)</span>
+                                <h2 class="stat-value text-orange" id="stat-tier-medium">--</h2>
+                                <span class="stat-sub text-orange">Playwright Human Emulation</span>
+                            </div>
+                        </div>
+
+                        <div class="stat-card">
+                            <div class="stat-icon violet"><div class="stat-icon-inner"><i class="fa-solid fa-eye"></i></div></div>
+                            <div class="stat-details">
+                                <span class="stat-label">🔴 Sulit (Vision/Cookie)</span>
+                                <h2 class="stat-value text-violet" id="stat-tier-hard">--</h2>
+                                <span class="stat-sub text-violet">OpenCV Vision & PyAutoGUI</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Category Breakdown Cards -->
+                    <div class="section-title">
+                        <h3><i class="fa-solid fa-list-check"></i> Platform Category Breakdown</h3>
+                    </div>
+                    <div class="categories-grid" id="categories-grid">
+                        <!-- Rendered by JS -->
+                    </div>
+
+                    <!-- Campaign Summary Cards -->
+                    <div class="section-title">
+                        <h3><i class="fa-solid fa-flag"></i> Campaign Posting Progress</h3>
+                    </div>
+                    <div class="campaigns-grid" id="campaigns-grid">
+                        <!-- Rendered by JS -->
+                    </div>
+                </section>
+
+                <!-- TAB: SITE CAPABILITY INSPECTOR -->
+                <section id="tab-inspector" class="tab-pane">
+                    <div class="glass-card">
+                        <div class="verifier-toolbar">
+                            <div class="verifier-controls">
+                                <h3><i class="fa-solid fa-microscope text-cyan"></i> Site Capability & Difficulty Tier Inspector</h3>
+                                <button class="btn btn-primary" id="btn-run-inspector">
+                                    <i class="fa-solid fa-arrows-rotate"></i> Run Capability Audit
+                                </button>
+                                <button class="btn btn-secondary" id="btn-run-hints" style="margin-left: 10px; background: #8b5cf6; border-color: #8b5cf6;">
+                                    <i class="fa-solid fa-magnifying-glass"></i> Phase A: Map Upload Flow
+                                </button>
+                                <button class="btn btn-secondary" id="btn-run-learning" style="margin-left: 10px; background: #6366f1; border-color: #6366f1;">
+                                    <i class="fa-solid fa-brain"></i> Phase B: Share Link Test (Integrated)
+                                </button>
+                            </div>
+                            <div class="audit-summary-badges">
+                                <span class="badge badge-success" id="badge-tier-easy">🟢 Mudah: 0</span>
+                                <span class="badge badge-running" id="badge-tier-medium">🟡 Sedang: 0</span>
+                                <span class="badge badge-danger" id="badge-tier-hard">🔴 Sulit: 0</span>
+                            </div>
+                        </div>
+
+                        <!-- Terminal Log UI for Learning Phase -->
+                        <div id="learning-logs-container" class="mt-20 hidden" style="background: #0f172a; padding: 15px; border-radius: 8px; border: 1px solid #334155;">
+                            <h4 style="margin-bottom: 10px; color: #38bdf8;"><i class="fa-solid fa-terminal"></i> AI Profiler Logs (Live)</h4>
+                            <div class="progress-bar-container" style="margin-bottom: 15px;">
+                                <div class="progress-bar-fill" id="learning-progress-bar" style="width: 0%; background: #6366f1;">0%</div>
+                            </div>
+                            <pre id="learning-logs-output" style="height: 200px; overflow-y: auto; color: #a5b4fc; font-size: 12px; margin: 0; white-space: pre-wrap;"></pre>
+                        </div>
+                        
+                        <!-- Site Knowledge Base UI -->
+                        <div id="knowledge-container" class="mt-20 hidden" style="background: #1e293b; padding: 15px; border-radius: 8px; border: 1px solid #475569;">
+                            <h4 style="margin-bottom: 10px; color: #cbd5e1;"><i class="fa-solid fa-database"></i> Site Knowledge Base (Phase A/B Results)</h4>
+                            <div class="table-responsive" style="max-height: 300px; overflow-y: auto;">
+                                <table class="data-table" id="knowledge-table" style="width: 100%; text-align: left;">
+                                    <thead>
+                                        <tr>
+                                            <th>Target Website</th>
+                                            <th>Editor Type</th>
+                                            <th>Mapped Steps</th>
+                                            <th>Confidence</th>
+                                            <th>Status</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="knowledge-table-body">
+                                        <tr>
+                                            <td colspan="5" class="text-center">Loading knowledge base...</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+
+                        <div class="table-responsive mt-20">
+                            <table class="data-table" id="inspector-table">
+                                <thead>
+                                    <tr>
+                                        <th>Target Website</th>
+                                        <th>Category</th>
+                                        <th>Difficulty Tier</th>
+                                        <th>Automation Method</th>
+                                        <th>HTTP Status</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="inspector-table-body">
+                                    <tr>
+                                        <td colspan="5" class="text-center">Click "Run Capability Audit" to inspect upload mechanisms for all 227 target sites.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- TAB 2: BULK UPLOAD WIZARD -->
+                <section id="tab-wizard" class="tab-pane">
+                    <div class="wizard-grid">
+                        <!-- Left Form Panel -->
+                        <div class="glass-card form-panel">
+                            <h3><i class="fa-solid fa-feather-pointed"></i> 1. Content & Payload Settings</h3>
+                            <div class="form-group">
+                                <label for="wiz-campaign">Target Campaign Column</label>
+                                <div class="campaign-selector-wrapper">
+                                    <select id="wiz-campaign" class="form-control">
+                                        <!-- Options added by JS -->
+                                    </select>
+                                    <button class="btn btn-secondary btn-sm" id="btn-add-campaign-modal">
+                                        <i class="fa-solid fa-plus"></i> New
+                                    </button>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="wiz-title">Article / Content Title</label>
+                                <input type="text" id="wiz-title" class="form-control" placeholder="e.g. Tips Mengembangkan Bisnis Digital dengan AI">
+                            </div>
+
+                            <div class="form-group">
+                                <label for="wiz-content">Content / Body Text (Articles, Links, Descriptions)</label>
+                                <textarea id="wiz-content" class="form-control" rows="5" placeholder="Enter article content, keywords, or backlink references..."></textarea>
+                            </div>
+
+                            <div class="form-group">
+                                <label>Image / Media Attachment (Optional for Image Hosts & Cloud Storage)</label>
+                                <div class="file-dropzone" id="file-dropzone">
+                                    <i class="fa-solid fa-cloud-arrow-up"></i>
+                                    <p>Drag & drop image/file here or <span>browse</span></p>
+                                    <input type="file" id="file-input" hidden>
+                                </div>
+                                <div id="attached-file-info" class="attached-file-info hidden">
+                                    <i class="fa-solid fa-file-image"></i>
+                                    <span id="attached-file-name">filename.png</span>
+                                    <button id="btn-remove-file"><i class="fa-solid fa-xmark"></i></button>
+                                </div>
+                            </div>
+
+                            <h3><i class="fa-solid fa-sliders"></i> 2. Target Platform Selection & Presets</h3>
+                            
+                            <!-- Dropdown Preset Selector -->
+                            <div class="form-group">
+                                <label for="wiz-preset-dropdown"><i class="fa-solid fa-wand-magic-sparkles"></i> Quick Selection Preset Dropdown</label>
+                                <select id="wiz-preset-dropdown" class="form-control">
+                                    <option value="ALL">Select All Target Sites (227 Platforms)</option>
+                                    <option value="MUDAH_ONLY">🟢 Select MUDAH API Sites Only (Fastest & 100% Automated)</option>
+                                    <option value="SEDANG_ONLY">🟡 Select SEDANG Web Form Sites Only (Playwright)</option>
+                                    <option value="IMAGE_ONLY">📷 Select Image Host Sites Only</option>
+                                    <option value="PASTE_ONLY">📝 Select Paste & Article Sites Only</option>
+                                    <option value="DESELECT">❌ Deselect All Sites</option>
+                                </select>
+                            </div>
+
+                            <div class="category-filter-bar">
+                                <button class="btn-chip active" data-cat="ALL">All Categories</button>
+                                <button class="btn-chip" data-cat="Image Host">Image Hosts</button>
+                                <button class="btn-chip" data-cat="Text / Paste Host">Paste Hosts</button>
+                                <button class="btn-chip" data-cat="Cloud Storage">Cloud Storage</button>
+                                <button class="btn-chip" data-cat="Blog / CMS">Blog / CMS</button>
+                            </div>
+
+                            <div class="category-filter-bar mt-10">
+                                <span class="text-muted text-xs">Filter Tier:</span>
+                                <button class="btn-chip active" data-tier="ALL">All Tiers</button>
+                                <button class="btn-chip" data-tier="Mudah">🟢 Mudah (API)</button>
+                                <button class="btn-chip" data-tier="Sedang">🟡 Sedang (Web Form)</button>
+                                <button class="btn-chip" data-tier="Sulit">🔴 Sulit (Vision/Cookie)</button>
+                            </div>
+
+                            <div class="site-selection-header mt-10">
+                                <span><strong id="selected-sites-count">0</strong> of <span id="total-target-sites">227</span> sites selected</span>
+                                <div class="selection-actions">
+                                    <button class="btn-link" id="btn-select-all">Select All</button> |
+                                    <button class="btn-link" id="btn-deselect-all">Deselect All</button>
+                                </div>
+                            </div>
+
+                            <div class="sites-checklist" id="sites-checklist">
+                                <!-- Checkbox list rendered by JS -->
+                            </div>
+
+                            <div class="form-group mt-15">
+                                <label class="checkbox-label-custom">
+                                    <input type="checkbox" id="wiz-visible-browser" checked>
+                                    <span><i class="fa-solid fa-eye text-cyan"></i> <strong>Visible Headed Browser Mode</strong> (Show Chrome Window Live on Desktop)</span>
+                                </label>
+                            </div>
+                            <div class="form-group mt-15">
+                                <button class="btn btn-secondary btn-block" id="btn-wakeup-bot" onclick="fetch('/api/wakeup-bot', {method:'POST'}).then(r=>r.json()).then(d=>alert(d.message))" style="background: rgba(56, 189, 248, 0.1); border: 1px solid rgba(56, 189, 248, 0.3); color: #38bdf8;">
+                                    <i class="fa-solid fa-robot"></i> <strong>Bangunkan Chrome Robot</strong> (Buka Browser untuk Login Manual)
+                                </button>
+                                <p class="text-xs text-muted mt-5"><i class="fa-solid fa-circle-info"></i> Gunakan tombol ini untuk membuka rumah Chrome Bot jika Anda ingin login ke website sebelum menjalankan automation.</p>
+                            </div>
+
+                            <div class="wizard-footer">
+                                <button class="btn btn-primary btn-lg btn-block" id="btn-start-batch">
+                                    <i class="fa-solid fa-rocket"></i> Launch Bulk Automation Task
+                                </button>
+                            </div>
+                        </div>
+
+                        <!-- Right Live Output Log Panel -->
+                        <div class="glass-card log-panel">
+                            <div class="log-header">
+                                <h3><i class="fa-solid fa-terminal"></i> Live Execution Terminal</h3>
+                                <span class="badge badge-idle" id="job-status-badge">IDLE</span>
+                            </div>
+
+                            <div class="progress-container">
+                                <div class="progress-bar-wrapper">
+                                    <div class="progress-bar" id="job-progress-bar" style="width: 0%;"></div>
+                                </div>
+                                <div class="progress-metrics">
+                                    <span id="job-progress-text">0% Completed</span>
+                                    <span id="job-counts-text">0 / 0</span>
+                                </div>
+                            </div>
+
+                            <!-- Live Visual Screen / Vision Monitor Frame -->
+                            <div class="live-screen-monitor">
+                                <div class="screen-header">
+                                    <span><i class="fa-solid fa-desktop text-cyan"></i> Live Visual Screen & Vision Monitor</span>
+                                    <span class="badge badge-running" id="live-target-badge">Standby</span>
+                                </div>
+                                <div class="screen-viewport" id="screen-viewport">
+                                    <img id="live-preview-img" src="/static/live_preview.jpg" alt="Live Browser / Vision Screenshot" onerror="this.classList.add('hidden')" onload="this.classList.remove('hidden')">
+                                    <div class="screen-overlay" id="screen-overlay">
+                                        <i class="fa-solid fa-video text-muted"></i>
+                                        <p>Live screen stream will update dynamically as websites open...</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="terminal-window" id="terminal-window">
+                                <p class="sys-msg">[System] Human behavior & computer vision engine standby. Select target platforms and click "Launch Bulk Automation Task".</p>
+                            </div>
+
+                            <div class="job-results-summary hidden" id="job-results-summary">
+                                <h4><i class="fa-solid fa-square-check text-green"></i> Generated Links Output</h4>
+                                <div class="results-table-wrapper">
+                                    <table class="data-table" id="results-table">
+                                        <thead>
+                                            <tr>
+                                                <th>Site Domain</th>
+                                                <th>Generated URL</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody></tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- TAB 3: EXCEL TRACKER -->
+                <section id="tab-tracker" class="tab-pane">
+                    <div class="glass-card">
+                        <div class="table-toolbar">
+                            <div class="search-box">
+                                <i class="fa-solid fa-magnifying-glass"></i>
+                                <input type="text" id="search-situs" placeholder="Search target website or domain...">
+                            </div>
+
+                            <div class="toolbar-filters">
+                                <select id="filter-category" class="form-control">
+                                    <option value="ALL">All Categories</option>
+                                    <option value="Image Host">Image Host</option>
+                                    <option value="Text / Paste Host">Text / Paste Host</option>
+                                    <option value="Cloud Storage">Cloud Storage</option>
+                                    <option value="Blog / CMS">Blog / CMS</option>
+                                    <option value="Social / Web Platform">Social / Web Platform</option>
+                                </select>
+
+                                <button class="btn btn-secondary" id="btn-add-campaign-bar">
+                                    <i class="fa-solid fa-plus"></i> Add Campaign Column
+                                </button>
+                            </div>
+                        </div>
+
+                        <div class="table-responsive">
+                            <table class="data-table" id="excel-data-table">
+                                <thead id="excel-table-head">
+                                    <!-- Rendered by JS -->
+                                </thead>
+                                <tbody id="excel-table-body">
+                                    <!-- Rendered by JS -->
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- TAB 4: LINK HEALTH AUDIT -->
+                <section id="tab-verifier" class="tab-pane">
+                    <div class="glass-card">
+                        <div class="verifier-toolbar">
+                            <div class="verifier-controls">
+                                <label for="audit-campaign-select">Select Campaign to Verify:</label>
+                                <select id="audit-campaign-select" class="form-control">
+                                    <option value="">All Campaigns</option>
+                                    <!-- Populated by JS -->
+                                </select>
+                                <button class="btn btn-primary" id="btn-run-audit">
+                                    <i class="fa-solid fa-stethoscope"></i> Run Link Health Check
+                                </button>
+                            </div>
+
+                            <div class="audit-summary-badges hidden" id="audit-summary-badges">
+                                <span class="badge badge-success" id="badge-alive">Active: 0</span>
+                                <span class="badge badge-danger" id="badge-dead">Broken: 0</span>
+                                <span class="badge badge-info" id="badge-rate">Health Rate: 0%</span>
+                            </div>
+                        </div>
+
+                        <div class="table-responsive">
+                            <table class="data-table" id="audit-table">
+                                <thead>
+                                    <tr>
+                                        <th>Target Site</th>
+                                        <th>Campaign</th>
+                                        <th>URL Link</th>
+                                        <th>HTTP Code</th>
+                                        <th>Status</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="audit-table-body">
+                                    <tr>
+                                        <td colspan="5" class="text-center">Select campaign and click "Run Link Health Check" to start link verification.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- TAB: SETTINGS -->
+                <section id="tab-settings" class="tab-pane">
+                    <div class="glass-card max-w-600">
+                        <h3><i class="fa-solid fa-key"></i> Platform Credentials & API Configuration</h3>
+                        <p class="text-muted">Configure optional API keys for platforms requiring authentication.</p>
+                        
+                        <div class="form-group mt-20">
+                            <label for="setting-medium-token">Medium Integration Token</label>
+                            <input type="password" id="setting-medium-token" class="form-control" placeholder="Enter Medium API Token...">
+                        </div>
+
+                        <div class="form-group">
+                            <label for="setting-imgbb-key">ImgBB API Key (Optional Override)</label>
+                            <input type="text" id="setting-imgbb-key" class="form-control" placeholder="c1a2d7f8976451e041306bc8ab878345">
+                        </div>
+
+                        <div class="form-group">
+                            <label for="setting-freeimage-key">FreeImageHost API Key (Optional Override)</label>
+                            <input type="text" id="setting-freeimage-key" class="form-control" placeholder="6d207e02198a847aa98d0a2a901485a5">
+                        </div>
+
+                        <button class="btn btn-primary" id="btn-save-settings">
+                            <i class="fa-solid fa-floppy-disk"></i> Save Settings
+                        </button>
+                    </div>
+                </section>
+
+                <!-- TAB: AUDIT INFO -->
+                <section id="tab-audit" class="tab-pane">
+                    <div class="glass-card">
+                        <header class="section-header" style="display:flex; justify-content:space-between; align-items:center; margin-bottom: 20px;">
+                            <div>
+                                <h2><i class="fa-solid fa-list-check"></i> Audit Info & Router Feedback</h2>
+                                <p class="text-muted">Simulasi pencarian DOM untuk memetakan situs "Nyasar", "Login Wall", dan "Ready".</p>
+                            </div>
+                            <button class="btn btn-primary" id="btn-run-audit">
+                                <i class="fa-solid fa-play"></i> Run Mass Audit
+                            </button>
+                        </header>
+
+                        <div class="dashboard-grid" style="grid-template-columns: repeat(4, 1fr); gap:15px; margin-bottom:20px;">
+                            <div class="stat-card" style="padding:15px;">
+                                <i class="fa-solid fa-spinner fa-spin" style="color:var(--primary); font-size:1.5rem;"></i>
+                                <h3 id="audit-stat-progress" style="margin:10px 0 5px; font-size:1.2rem;">0 / 0</h3>
+                                <p class="text-muted" style="font-size:0.9rem;">Progress</p>
+                            </div>
+                            <div class="stat-card" style="padding:15px;">
+                                <i class="fa-solid fa-check-circle" style="color:#22c55e; font-size:1.5rem;"></i>
+                                <h3 id="audit-stat-ready" style="margin:10px 0 5px; font-size:1.2rem;">0</h3>
+                                <p class="text-muted" style="font-size:0.9rem;">Ready (Auto-Routed)</p>
+                            </div>
+                            <div class="stat-card" style="padding:15px;">
+                                <i class="fa-solid fa-compass" style="color:#eab308; font-size:1.5rem;"></i>
+                                <h3 id="audit-stat-nyasar" style="margin:10px 0 5px; font-size:1.2rem;">0</h3>
+                                <p class="text-muted" style="font-size:0.9rem;">Masih Nyasar</p>
+                            </div>
+                            <div class="stat-card" style="padding:15px;">
+                                <i class="fa-solid fa-lock" style="color:#ef4444; font-size:1.5rem;"></i>
+                                <h3 id="audit-stat-login" style="margin:10px 0 5px; font-size:1.2rem;">0</h3>
+                                <p class="text-muted" style="font-size:0.9rem;">Butuh Login</p>
+                            </div>
+                        </div>
+
+                        <div class="table-container" style="max-height: 500px; overflow-y: auto;">
+                            <table class="data-table">
+                                <thead>
+                                    <tr>
+                                        <th>Situs Tujuan</th>
+                                        <th>Status DOM</th>
+                                        <th>Pesan Log & Identifikasi Element</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="audit-results-tbody">
+                                    <tr>
+                                        <td colspan="3" class="text-center">Belum ada data audit. Klik "Run Mass Audit" untuk memulai.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </main>
+    </div>
+
+    <!-- MODAL ADD CAMPAIGN -->
+    <div class="modal-backdrop hidden" id="modal-add-campaign">
+        <div class="modal-box">
+            <div class="modal-header">
+                <h3>Add New Campaign</h3>
+                <button class="btn-close-modal" id="btn-close-modal"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label for="new-campaign-name">Campaign Column Name</label>
+                    <input type="text" id="new-campaign-name" class="form-control" placeholder="e.g. Kampanye 5 — 25 Agu 2026">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" id="btn-cancel-modal">Cancel</button>
+                <button class="btn btn-primary" id="btn-submit-campaign">Save Column</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript Application Script -->
+    <script src="/static/app.js?v=2.3"></script>
+</body>
+</html>

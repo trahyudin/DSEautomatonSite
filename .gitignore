@@ -1,0 +1,40 @@
+# Environment & Secrets (SANGAT PENTING: Jangan upload API Key / Rahasia)
+.env
+*.env
+.env.*
+!.env.example
+
+# Chrome Robot Profile & Sesi Login (Berisi cookie, password, dan cache browser >500MB)
+BotProfile/
+automation/cookies/
+cookies/
+
+# File Upload Sementara
+uploads/*
+!uploads/.gitkeep
+scratch/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Temporary, Logs & Dump files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# OS & IDE Artefak
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store

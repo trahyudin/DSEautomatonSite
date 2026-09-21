@@ -1,0 +1,2053 @@
+{
+  "total_sites": 227,
+  "tier_counts": {
+    "Mudah": 10,
+    "Sedang": 188,
+    "Sulit": 29
+  },
+  "results": [
+    {
+      "situs": "pinterest.com",
+      "category": "Social / Web Platform",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "medium.com",
+      "category": "Blog / CMS",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "http://imgbox.com",
+      "category": "Image Host",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "http://publit.io/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "http://postimages.org",
+      "category": "Image Host",
+      "tier": "Mudah",
+      "tier_code": "EASY",
+      "upload_method": "Direct API / Multipart Upload",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "http://prnt.sc",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "http://BLOGGER.COM",
+      "category": "Blog / CMS",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "http://freeimage.host",
+      "category": "Image Host",
+      "tier": "Mudah",
+      "tier_code": "EASY",
+      "upload_method": "Direct API / Multipart Upload",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "imgbb.com",
+      "category": "Image Host",
+      "tier": "Mudah",
+      "tier_code": "EASY",
+      "upload_method": "Direct API / Multipart Upload",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://imageshack.com",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "mediafire.com",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "tumblr.com",
+      "category": "Blog / CMS",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "http://flipboard.com",
+      "category": "Social / Web Platform",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "http://500px.com",
+      "category": "Social / Web Platform",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "dropmark.com",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "behance.net",
+      "category": "Social / Web Platform",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": false,
+      "status_code": 403
+    },
+    {
+      "situs": "4shared.com",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "fliphtml5.com",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "imagebam.com",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "http://shutterfly.com",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "http://tinypic.host",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "https://my.pcloud.com/",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "http://instagram.com",
+      "category": "Social / Web Platform",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "http://livejournal.com",
+      "category": "Blog / CMS",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "http://gifyu.com",
+      "category": "Image Host",
+      "tier": "Mudah",
+      "tier_code": "EASY",
+      "upload_method": "Direct API / Multipart Upload",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "imgur.com",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "https://photos.google.com/",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "facebook.com",
+      "category": "Social / Web Platform",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "http://minds.com",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "locanto.co.id",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 403
+    },
+    {
+      "situs": "http://twitter.com",
+      "category": "Social / Web Platform",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": false,
+      "status_code": 520
+    },
+    {
+      "situs": "https://www.wattpad.com/",
+      "category": "Blog / CMS",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://id.wix.com/",
+      "category": "Blog / CMS",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://penzu.com/",
+      "category": "Blog / CMS",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.weebly.com/",
+      "category": "Blog / CMS",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "https://ghost.org/",
+      "category": "Blog / CMS",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.klook.com",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 403
+    },
+    {
+      "situs": "https://glints.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "https://www.tripadvisor.co.id/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 403
+    },
+    {
+      "situs": "https://www.squarespace.com/",
+      "category": "Blog / CMS",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://pixabay.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 403
+    },
+    {
+      "situs": "https://unsplash.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 403
+    },
+    {
+      "situs": "https://www.pexels.com/id-id/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 403
+    },
+    {
+      "situs": "https://www.reshot.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.shopify.com/stock-photos",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://pikwizard.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "https://gratisography.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.stockvault.net/#",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "imgpile.com",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "deviantart.com",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 403
+    },
+    {
+      "situs": "pixiv.net",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "artstation.com",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 403
+    },
+    {
+      "situs": "carbonmade.com",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "imgsrc.ru",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "imageup.ru",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "gofile.io",
+      "category": "Image Host",
+      "tier": "Mudah",
+      "tier_code": "EASY",
+      "upload_method": "Direct API / Multipart Upload",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://catbox.moe/",
+      "category": "Image Host",
+      "tier": "Mudah",
+      "tier_code": "EASY",
+      "upload_method": "Direct API / Multipart Upload",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "pixeldrain.com",
+      "category": "Image Host",
+      "tier": "Mudah",
+      "tier_code": "EASY",
+      "upload_method": "Direct API / Multipart Upload",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "uguu.se",
+      "category": "Image Host",
+      "tier": "Mudah",
+      "tier_code": "EASY",
+      "upload_method": "Direct API / Multipart Upload",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "magnific.com",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 403
+    },
+    {
+      "situs": "stocksnap.io",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "pxhere.com",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "infogram.com",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "mega.nz",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "https://youpic.com/",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 404
+    },
+    {
+      "situs": "https://www.imghippo.com/",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "photobucket.com",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "yogile.com",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "pearltrees.com",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 404
+    },
+    {
+      "situs": "archive.org",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "screencast.com",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "justpaste.it",
+      "category": "Text / Paste Host",
+      "tier": "Mudah",
+      "tier_code": "EASY",
+      "upload_method": "Direct API / Multipart Upload",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "picdrop.com",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "picallow.com",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "threads.net",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "nippy.host",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "turbobit.net",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "carrd.co",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "hostupa.com",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "quaddro.com",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 404
+    },
+    {
+      "situs": "imgit.com",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "write.as",
+      "category": "Text / Paste Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "plurk.com",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "webflow.com",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://send.now/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "tiktok.com",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "https://bsky.app/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.reddit.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "flickr.com",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "snipboard.io",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "chevereto.com",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "smugmug.com",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 502
+    },
+    {
+      "situs": "hubpages.com",
+      "category": "Text / Paste Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 403
+    },
+    {
+      "situs": "pastebin.com",
+      "category": "Text / Paste Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "dropbox.com",
+      "category": "Cloud Storage",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "cloudup.com",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "imagevenue.com",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "jumpshare.com",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "koofr.eu",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "lensdump.com",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "https://telegra.ph/",
+      "category": "Text / Paste Host",
+      "tier": "Mudah",
+      "tier_code": "EASY",
+      "upload_method": "Direct API / Multipart Upload",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "Naomi.com",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "TurboImageHost.com",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 403
+    },
+    {
+      "situs": "Pasteboard.co",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://pixelfed.social/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "MyAlbum.com",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "Dribbble.com",
+      "category": "Image Host",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": true,
+      "status_code": 202
+    },
+    {
+      "situs": "https://www.notion.com/",
+      "category": "Text / Paste Host",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "pixhost.to",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "slideshare.net",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "designspiration.com",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "photo-host.org",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 403
+    },
+    {
+      "situs": "kaskus.co.id",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://substack.com",
+      "category": "Blog / CMS",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.diigo.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://wakelet.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "writeupcafe.com",
+      "category": "Text / Paste Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://sirv.com/",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.filestack.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.bytescale.com/",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://transloadit.com/",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://uploadthing.com/",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://pinata.cloud/",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://storacha.network/",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://filebase.com/",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.backblaze.com/cloud-storage",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.storj.io/",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://wasabi.com",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://bunny.net/storage/",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://supabase.com/storage",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://appwrite.io/products/storage",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://firebase.google.com/products/storage",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.cloudflare.com/developer-platform/products/r2/",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://aws.amazon.com/s3",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://drive.google.com/",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://onedrive.live.com/",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.box.com/",
+      "category": "Cloud Storage",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://proton.me/drive",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://internxt.com",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://icedrive.net/",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 403
+    },
+    {
+      "situs": "https://filen.io/",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.sync.com/",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.idrive.com/",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.terabox.com/",
+      "category": "Cloud Storage",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://degoo.com/",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 403
+    },
+    {
+      "situs": "https://www.blomp.com/",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.opendrive.com/",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "https://disk.yandex.com/",
+      "category": "Cloud Storage",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.jottacloud.com",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 404
+    },
+    {
+      "situs": "https://nordlocker.com/",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://cozy.io/",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://mobidrive.com/",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://digiboxx.com/",
+      "category": "Cloud Storage",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.icloud.com/",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://wordpress.com/",
+      "category": "Blog / CMS",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://sites.google.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.strikingly.com/",
+      "category": "Blog / CMS",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.site123.com/",
+      "category": "Blog / CMS",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.jimdo.com/",
+      "category": "Blog / CMS",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.webnode.com/",
+      "category": "Blog / CMS",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.ucraft.com/",
+      "category": "Blog / CMS",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "https://dorik.com/",
+      "category": "Blog / CMS",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://typedream.com/",
+      "category": "Blog / CMS",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://tilda.cc/",
+      "category": "Blog / CMS",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.framer.com/",
+      "category": "Blog / CMS",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://about.me/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://bio.site/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://linktr.ee/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://beacons.ai/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 403
+    },
+    {
+      "situs": "https://solo.to/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "https://taplink.at/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "https://mssg.me/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.hubspot.com/products/cms",
+      "category": "Blog / CMS",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://squareup.com/online-store",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.mozello.com/",
+      "category": "Blog / CMS",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.yola.com/",
+      "category": "Blog / CMS",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.webador.com/",
+      "category": "Blog / CMS",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.simdif.com/",
+      "category": "Blog / CMS",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.imcreator.com/",
+      "category": "Blog / CMS",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://pixieset.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.shootproof.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://zenfolio.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 429
+    },
+    {
+      "situs": "https://www.format.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.photoshelter.com/",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://crevado.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.portfoliobox.com/",
+      "category": "Cloud Storage",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.journoportfolio.com/",
+      "category": "Blog / CMS",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.pixpa.com/",
+      "category": "Blog / CMS",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.coroflot.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "https://www.photo.net/",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 403
+    },
+    {
+      "situs": "https://www.viewbug.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "https://gurushots.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.photocrowd.com/",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.fotocommunity.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 403
+    },
+    {
+      "situs": "https://www.ipernity.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.slickpic.com/",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://exposure.co/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.vsco.co/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://glass.photo/",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://picflow.com/",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.pic-time.com/",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.cloudspot.io/",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.lightfolio.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.photo-deck.com/",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "https://www.canva.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.adobe.com/express/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "https://padlet.com/",
+      "category": "Text / Paste Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://milanote.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://miro.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.mural.co/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://genially.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.visme.co/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://prezi.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 406
+    },
+    {
+      "situs": "https://www.emaze.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://issuu.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.calameo.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://anyflip.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.yumpu.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "https://publuu.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://heyzine.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.flipsnack.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://speakerdeck.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "https://www.slideserve.com/",
+      "category": "Social / Web Platform",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 0
+    },
+    {
+      "situs": "photos.app.goo.gl",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": false,
+      "status_code": 400
+    },
+    {
+      "situs": "u.pcloud.link",
+      "category": "Cloud Storage",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "postimage.me",
+      "category": "Image Host",
+      "tier": "Sedang",
+      "tier_code": "MEDIUM",
+      "upload_method": "Playwright Web Form + Human Emulation",
+      "accessible": true,
+      "status_code": 200
+    },
+    {
+      "situs": "flipboard.com",
+      "category": "Social / Web Platform",
+      "tier": "Sulit",
+      "tier_code": "HARD",
+      "upload_method": "Persistent Session Cookie / Computer Vision GUI",
+      "accessible": true,
+      "status_code": 200
+    }
+  ]
+}

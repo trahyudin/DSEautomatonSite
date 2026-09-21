@@ -1,0 +1,8 @@
+flask
+playwright
+pyautogui
+pandas
+openpyxl
+google-generativeai
+python-dotenv
+pillow
