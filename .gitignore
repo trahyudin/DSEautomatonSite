@@ -38,3 +38,9 @@ ENV/
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+# Local Tutorial & PDF Files (Disimpan hanya di lokal pengguna, tidak di-push ke GitHub)
+PANDUAN_LENGKAP_AUTOPOST_MATRIX.pdf
+TUTORIAL_PANDUAN_SISTEM.html
+TUTORIAL_PANDUAN_SISTEM.md
+generate_tutorial_pdf.py
