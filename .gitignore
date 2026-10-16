@@ -44,3 +44,5 @@ PANDUAN_LENGKAP_AUTOPOST_MATRIX.pdf
 TUTORIAL_PANDUAN_SISTEM.html
 TUTORIAL_PANDUAN_SISTEM.md
 generate_tutorial_pdf.py
+capture_screenshots.py
+assets/
