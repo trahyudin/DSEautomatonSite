@@ -46,3 +46,7 @@ TUTORIAL_PANDUAN_SISTEM.md
 generate_tutorial_pdf.py
 capture_screenshots.py
 assets/
+WALKTHROUGH_PENGGUNAAN_AUTOPOST_MATRIX.pdf
+WALKTHROUGH_PENGGUNAAN_AUTOPOST_MATRIX.html
+WALKTHROUGH_PENGGUNAAN_AUTOPOST_MATRIX.md
+generate_walkthrough_pdf.py
